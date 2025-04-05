@@ -48,13 +48,4 @@ and relative path for the file mycv
 
 ![WhatsApp Image 2025-04-05 at 11 20 37 PM](https://github.com/user-attachments/assets/1df93f48-e7a6-4ef8-b2e4-709b281e8315)
 
-14. Using vi write your CV in the file mycv. Your CV should include your name, age, school,
-college, experience,...
-15. Open mycv file using vi command then: Without using arrows state how to:
-a. Move the cursor down one line at time.
-b. Move the cursor up one line at time.
-c. Search for word age
-d. Step to line 5 (assuming that you are in line 1 and file is more than 5 lines).
-e. Delete the line you are on and line 5.
-f. How to step to the end of line and change to writing mode in one-step.
-16. st the available shells in your system.
+
