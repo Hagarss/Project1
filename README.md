@@ -12,8 +12,13 @@
 ![WhatsApp Image 2025-04-05 at 8 48 53 PM](https://github.com/user-attachments/assets/52822610-496e-46a2-923a-ed0162aebdae)
 
 a. Remove dir11 in one-step. What did you notice? And how did you overcome that?
+![WhatsApp Image 2025-04-05 at 9 33 34 PM](https://github.com/user-attachments/assets/31ac2142-f2dc-4414-abc0-b5f8f547ccc5)
+we have to use -r as it didn't work using rm only
+
 b. Then remove dir12 using rmdir –p command. State what happened to the
 hierarchy (Note: you are in your home directory).
+![WhatsApp Image 2025-04-05 at 9 51 12 PM](https://github.com/user-attachments/assets/a8e2f6b0-0c65-4c0b-b207-fb6215aaa506)
+
 c. The output of the command pwd was /home/user. Write the absolute
 and relative path for the file mycv
 5. Copy the /etc/passwd file to your home directory making its name is mypasswd.
