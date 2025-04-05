@@ -46,6 +46,8 @@ and relative path for the file mycv
 
 13.Display a list of all the commands that contain the keyword passwd in their man page.
 
+![WhatsApp Image 2025-04-05 at 11 20 37 PM](https://github.com/user-attachments/assets/1df93f48-e7a6-4ef8-b2e4-709b281e8315)
+
 14. Using vi write your CV in the file mycv. Your CV should include your name, age, school,
 college, experience,...
 15. Open mycv file using vi command then: Without using arrows state how to:
