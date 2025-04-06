@@ -1,4 +1,4 @@
-# Project1
+# Task1
 1. Install Ubuntu [Dual-boot, VM, Multipass] ✅
 2. What is the difference between cat and more command?
    cat : displays the entire content of a file at once
